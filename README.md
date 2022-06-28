@@ -1,7 +1,5 @@
 # Data_Wrangling
-Details all the stages of data wrangling
 The data wrangling process consists of the gather,assess and clean stage. In this project i am gathering data from three sources:
-
 Downloadable "twitter_archive_enhaced.csv" file provided by Udacity for manual download.
 Url provided by Udacity for programmatic download of the "image-predictions.tsv" file.
 Querying twitter api for tweet infomations not available in the "twitter_archive_enhaced.csv" file.For example favorite count of a tweet and saving it into a "tweet_json.txt" file
